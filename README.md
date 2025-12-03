@@ -1,9 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I am Emad
+<h3 align="center">📱 Mobile Developer | ⭐ UI Enthusiast | 🍃Flutter expert</h3>
 
-<!--
-**Emad-Nasri/Emad-Nasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Emad-Nasri">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFF00&center=true&vCenter=true&width=650&lines=Mobile+Developer;Flutter+%7C+REST+APIs;" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
+  </a>
+</p>
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
