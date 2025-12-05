@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=flutter" alt="dart" width="40" height="40"/>
   </a>
 </p>
 <!--Here are some ideas to get you started:
